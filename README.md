@@ -70,16 +70,7 @@ https://github.com/nguyen-hong-tham/-FoodFast-Drone-Food-Delivery-System/release
 ### 3️⃣ **Video Theo Dõi Đơn Hàng & Drone** (`video3_tracking`)
 Hiển thị quá trình sau khi đơn hàng được xác nhận, theo dõi drone giao hàng real-time trên bản đồ.
 
-<details>
-<summary>▶️ Click để xem video</summary>
-
-<video width="100%" controls>
-  <source src="docs/video3_tracking.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
-</details>
-
+https://github.com/nguyen-hong-tham/-FoodFast-Drone-Food-Delivery-System/releases/tag/v3
 ---
 
 ### 4️⃣ **Video Admin & Restaurant Portal** (`videoDrone2`)
