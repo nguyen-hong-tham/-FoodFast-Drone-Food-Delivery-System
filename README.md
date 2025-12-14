@@ -56,16 +56,7 @@ Người dùng có thể duyệt menu, đặt món, thanh toán, và theo dõi g
 
 ### 1️⃣ **Video Khởi Động** (`video1_khoidong`)
 Giới thiệu ứng dụng mobile, giao diện khi chưa đăng nhập, overview các màn hình chính.
-
-<details>
-<summary>▶️ Click để xem video</summary>
-
-<video width="100%" controls>
-  <source src="docs/video1_khoidong.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
-</details>
+https://github.com/nguyen-hong-tham/-FoodFast-Drone-Food-Delivery-System/releases/tag/v1.0
 
 ---
 
