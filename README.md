@@ -56,9 +56,9 @@ Người dùng có thể duyệt menu, đặt món, thanh toán, và theo dõi g
 
 ### 1️⃣ **Video Khởi Động** (`video1_khoidong`)
 Giới thiệu ứng dụng mobile, giao diện khi chưa đăng nhập, overview các màn hình chính.
+
 https://github.com/nguyen-hong-tham/-FoodFast-Drone-Food-Delivery-System/releases/tag/v1.0
 
----
 
 ### 2️⃣ **Video Đăng Nhập & Đặt Món** (`video2_login`)
 Hướng dẫn đăng nhập vào hệ thống, duyệt menu, tùy chỉnh món ăn và đặt hàng.
