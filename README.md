@@ -63,15 +63,7 @@ https://github.com/nguyen-hong-tham/-FoodFast-Drone-Food-Delivery-System/release
 ### 2️⃣ **Video Đăng Nhập & Đặt Món** (`video2_login`)
 Hướng dẫn đăng nhập vào hệ thống, duyệt menu, tùy chỉnh món ăn và đặt hàng.
 
-<details>
-<summary>▶️ Click để xem video</summary>
-
-<video width="100%" controls>
-  <source src="docs/video2_login.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
-</details>
+https://github.com/nguyen-hong-tham/-FoodFast-Drone-Food-Delivery-System/releases/tag/v2
 
 ---
 
