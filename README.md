@@ -71,20 +71,14 @@ https://github.com/nguyen-hong-tham/-FoodFast-Drone-Food-Delivery-System/release
 Hiển thị quá trình sau khi đơn hàng được xác nhận, theo dõi drone giao hàng real-time trên bản đồ.
 
 https://github.com/nguyen-hong-tham/-FoodFast-Drone-Food-Delivery-System/releases/tag/v3
+
+
 ---
 
 ### 4️⃣ **Video Admin & Restaurant Portal** (`videoDrone2`)
 Hướng dẫn đăng nhập vào **Admin Portal**, **Restaurant Portal**, và **Mobile App**. Mô tả quy trình xử lý đơn hàng từ restaurant, quản lý drone fleet bởi admin.
 
-<details>
-<summary>▶️ Click để xem video</summary>
-
-<video width="100%" controls>
-  <source src="docs/videoDrone2.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
-</details>
+https://github.com/nguyen-hong-tham/-FoodFast-Drone-Food-Delivery-System/releases/tag/v4_project
 
 ---
 
